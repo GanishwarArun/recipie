@@ -1,0 +1,12 @@
+[
+  {
+    "name": "idli",
+    "description": "idli is a south Indian healthy diet",
+    "ingredients": ["batter", "chutney"]
+  },
+  {
+    "name": "dosa",
+    "description": "dosa is a popular South Indian dish",
+    "ingredients": ["rice", "lentils"]
+  }
+]
